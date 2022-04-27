@@ -1,0 +1,30 @@
+{
+  "name": "enchilada",
+  "version": "1.0.0",
+  "description": "boilerplate for html5 webpack dart-sass",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/webpack -w"
+  },
+  "keywords": [
+    "html5",
+    "webpack",
+    "dart-sass"
+  ],
+  "author": "David Schaal",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "devDependencies": {
+    "css-loader": "^6.6.0",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1"
+  }
+}

@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Claire O'Grady -- Instagram: @clairetheastronaut
+
+# THANKS
+
+    To my professor, David Schaal ... and Google!
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, SCSS
+    Apache Server Configs, jQuery, Modernizr, Normalize.css, Webpack
