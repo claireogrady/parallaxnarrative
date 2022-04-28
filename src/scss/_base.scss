@@ -1,5 +1,5 @@
 body {
-  background: white;
+  background: skyblue;
 }
 
 .container {
@@ -44,7 +44,7 @@ body {
   @include image;
   top: 100px;
   transform: translateZ(2px) scale(parallax-scale-factor(2));
-  opacity: 100%;
+  opacity: .5;
 }
 
 h2 {
